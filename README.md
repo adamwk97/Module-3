@@ -4,4 +4,6 @@ Website link -> adamwk97.epizy.com
 an ">" after the initial "<p" to close it. Another problem I think I see is that "script type="javascript">" should replace the opening 
 "<script>" in order to tell the reader that it is Javascript. 
 
-3. ![](Computer.png)
+3. ![PNG](Computer.png)
+   ![JPG](Computer.jpg)
+   ![GIF](Computer.gif)
